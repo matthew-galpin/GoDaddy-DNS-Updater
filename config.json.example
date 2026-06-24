@@ -1,0 +1,8 @@
+{
+  "godaddy_api_key": "YOUR_API_KEY_HERE",
+  "godaddy_api_secret": "YOUR_API_SECRET_HERE",
+  "domain": "YOUR_DOMAIN_NAME",
+  "record_name": "@",
+  "check_interval_minutes": 5,
+  "ttl": 600
+}
