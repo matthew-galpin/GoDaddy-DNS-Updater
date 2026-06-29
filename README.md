@@ -13,7 +13,7 @@ Automatically updates your GoDaddy DNS A records when your public IP address cha
 
 ## Prerequisites
 
-1. **Go Programming Language**: Install from [golang.org](https://golang.org/dl/)
+1. **Go Programming Language**: Install from [go.dev](https://go.dev/)
 2. **GoDaddy API Keys**: Get your API key and secret from [GoDaddy Developer Portal](https://developer.godaddy.com/keys)
 
 ## Setup Instructions
